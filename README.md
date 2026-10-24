@@ -1,5 +1,5 @@
 # Introduction
-A project using the YOLO Object Detection Models to identify objects and track items taken in and out of a cabinet using the Raspberry Pi 5.
+A project training and comparing YOLO Object Detection Models on edge hardware to identify objects and track items taken in and out of a cabinet.
 
 # Hardware Used
 - Raspberry Pi 5 /8GB
